@@ -9,12 +9,14 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-2596be">
 </p>
 
-> <b>Github Explorer - Chapter 1</b>: Projeto desenvolvido na Trilha de ReactJS do Ignite da [Rocketseat](https://github.com/Rocketseat).
+> <b>Desafio 01 - Chapter 1</b>: Desenvolvido na Trilha de ReactJS do Ignite da [Rocketseat](https://github.com/Rocketseat).
+
+> Descrição: Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
 
 ## Preview
 
 <div>
-   <img src="https://raw.githubusercontent.com/GuigaLn/rocketseat-ignite-react/master/chapter-01/01-github-explorer/assets/img/preview.PNG" width="600px" />
+   <img src="https://raw.githubusercontent.com/GuigaLn/rocketseat-ignite-react/master/challenges/chapter-01/ignite-reactjs-conceitos-do-react/assets/img/preview.PNG" width="600px" />
 </div>
 
 ## Executando o código
@@ -26,7 +28,7 @@ $ https://github.com/GuigaLn/rocketseat-ignite-react.git
 
 ```bash
 # 2. Acesse a pasta do projeto
-$ cd chapter-01/01-github-explorer
+$ cd challenges/chapter-01/ignite-reactjs-conceitos-do-react
 ```
 
 ```bash
