@@ -35,3 +35,9 @@
 
 <br>
 Este projeto está sob a licença [MIT](./LICENSE).
+
+<div align="center">
+  <sub>Desenvolvido com ❤︎ pelo
+    <a href="https://github.com/GuigaLn">Guilherme Leonardo Nallon</a>
+  </sub>
+</div>
