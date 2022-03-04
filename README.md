@@ -23,7 +23,7 @@
 ## 🚀 Desafios
 
 <p align="left">
-  <a href="https://github.com/GuigaLn/rocketseat-ignite-react/tree/master/challenges/chapter-01/ignite-reactjs-conceitos-do-react">
+  <a href="https://github.com/GuigaLn/ignite-reactjs-conceitos-do-react">
     [Chapter I - Desafio 01 - ToDo]
   </a>
 </p>
