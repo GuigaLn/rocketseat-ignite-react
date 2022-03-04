@@ -28,7 +28,7 @@
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/GuigaLn/rocketseat-ignite-react/tree/master/challenges/chapter-01/ignite-componentizando-a-aplicacao">
+  <a href="https://github.com/GuigaLn/ignite-componentizando-a-aplicacao">
     [Chapter I - Desafio 02 - WatchMe]
   </a>
 </p>
